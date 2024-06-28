@@ -945,9 +945,6 @@ export default function Home() {
               src="https://www.youtube.com/embed/D0UnqGm_miA"
               title="Yop 10 most powerful Startup"
               frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
             ></iframe>
             <div className="flex justify-between ">
               <div className="w-2/3">
@@ -970,9 +967,6 @@ export default function Home() {
               src="https://www.youtube.com/embed/D0UnqGm_miA"
               title="Yop 10 most powerful Startup"
               frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
             ></iframe>
             <div className="flex gap-4 justify-between ">
               <div className="w-2/3">
@@ -994,10 +988,6 @@ export default function Home() {
               className="w-full h-auto"
               src="https://www.youtube.com/embed/D0UnqGm_miA"
               title="Yop 10 most powerful Startup"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
             ></iframe>
             <div className="flex gap-4 justify-between ">
               <div className="w-2/3">
